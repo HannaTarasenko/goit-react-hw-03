@@ -1,0 +1,13 @@
+.options {
+    display: flex;
+    flex-direction: row;
+    column-gap: 6px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.optionsButton {
+    border: 1px solid #333;
+    padding: 7px;
+    border-radius: 5px;
+}

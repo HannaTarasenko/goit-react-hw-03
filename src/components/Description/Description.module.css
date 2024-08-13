@@ -1,0 +1,16 @@
+.title {
+    font-size: 36px;
+    font-weight: 700;
+    text-align: left;
+    margin: 0;
+}
+
+.text {
+    font-size: 16px;
+}
+
+.description {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
